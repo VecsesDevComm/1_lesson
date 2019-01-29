@@ -5,7 +5,7 @@ Szeretném, hogyha az itt lévő fájlokat is, és a saját kódjaitokat is pró
 
 Minden fájl végére tettem egy pici kódot, aminek határása a program amit írtunk nem fog kilépni egyből. Ez windowson nagyon fontos. Ezáltal hogyha telepítetted a pythont windowsra, a .py végű fájlokra kattintva, nem csak egy felvillanó ablak fog megjelenni, hanem mielőtt bezárná a programot, megvárja hogy entert üss. Ezáltal válik a kimenet (amit kiir) olvashatóvá
 
-**A kódok letöltéséhez kattints ide:**
+**A kódok letöltéséhez kattints ide: https://github.com/VecsesDevComm/1_lesson/archive/v1.zip**
 
 ## Használati útmutató linux rendszerhez:
 
@@ -17,7 +17,7 @@ python3 if.py
 
 ## Használati útmutató windows rendszerekhez.
 
-**Ha még nincs python a gépeden** akkor kérlek az alábbi linked telepítsd fel:
+**Ha még nincs python a gépeden** akkor kérlek az alábbi linked telepítsd fel: https://www.python.org/downloads/
 
 Ha a python feltelepült a gépedre, akkor az itt lévő programok futtatását és szerkesztését az **IDLE** nevű programmal végezheted a legkönnyebben. 
 
